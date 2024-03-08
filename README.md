@@ -1,6 +1,13 @@
 # todo_springboot_web
 Springboot, JPA 를 이용한 스터디 그룹 및 일정 관리 서비스
 
+</br>
+
+## MAYBE:DO
+
+개발 : http://maybedo.co.kr/login
+
+
 
 ## 📌 기록
 - 2023.10.14 : httpSession을 이용해 로그인 코드 구현함.
